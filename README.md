@@ -6,6 +6,12 @@
 <!-- 
 ### Connect with me via [LinkedIn](www.linkedin.com/in/eugene-nadezhdin-3467072) -->
 
+<style>
+a.no-underline,
+a.no-underline:visited {
+  text-decoration: none;
+}
+</style>
 
 <h3 align="left">Languages and Tools:</h3>
 

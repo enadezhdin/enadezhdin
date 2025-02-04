@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eugene</h1>
 <h3 align="left">I am a bioinformatics specialist and biomedical data scientist with background in molecular biology.</h3>
 
-<h3 align="left">Connect with me via LinkedIn </h3> <a href="www.linkedin.com/in/eugene-nadezhdin-3467072" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /></a>
+<!-- <h3 align="left">Connect with me via LinkedIn </h3> <a href="www.linkedin.com/in/eugene-nadezhdin-3467072" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /></a> -->
+
+### Connect with me via [LinkedIn](www.linkedin.com/in/eugene-nadezhdin-3467072)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,4 +38,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enadezhdin&show_icons=true&locale=en&layout=compact" alt="enadezhdin" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=enadezhdin&show_icons=true&locale=en&layout=compact" alt="enadezhdin" /></p>

@@ -3,7 +3,7 @@
 
 <!-- <h3 align="left">Connect with me via <a class="no-underline" href="www.linkedin.com/in/eugene-nadezhdin-3467072" target="_blank" rel="noreferrer"> LinkedIn </a></h3> -->
 
-### Connect with me via LinkedIn [www.linkedin.com/in/eugene-nadezhdin-3467072/](www.linkedin.com/in/eugene-nadezhdin-3467072/)
+### Connect with me via [LinkedIn](https://www.linkedin.com/in/eugene-nadezhdin-3467072)
 
 <h3 align="left">Languages and Tools:</h3>
 

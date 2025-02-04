@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugene</h1>
-<h3 align="center">I am a bioinformatics specialist and biomedical data scientist with background in molecular biology.</h3>
+<h3 align="left">I am a bioinformatics specialist and biomedical data scientist with background in molecular biology.</h3>
 
-<h3 align="left">Connect with me via LinkedIn <a href="www.linkedin.com/in/eugene-nadezhdin-3467072" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /></a></h3>
-<p align="left">
-</p>
+<h3 align="left">Connect with me via LinkedIn <a href="www.linkedin.com/in/eugene-nadezhdin-3467072" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /></a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -34,7 +32,7 @@
 
 <h4 align="left">Project Management:</h4>
 
- <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="confluence logo" height="40"/> </a><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira logo" height="40"/> </a><a href="https://www.scrum.org" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/8p3k7GvB4DWNQZjA9" title="SCRUM" alt="SCRUM logo" height="40"/> </a>
+ <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="confluence logo" height="40"/> </a><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira logo" height="40"/> </a><a href="https://www.scrum.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5108/5108574.png" title="SCRUM" alt="SCRUM logo" height="40"/> </a>
 
 
 

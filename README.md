@@ -3,7 +3,8 @@
 
 <!-- <h3 align="left">Connect with me via LinkedIn </h3> <a href="www.linkedin.com/in/eugene-nadezhdin-3467072" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /></a> -->
 
-### Connect with me via [LinkedIn](www.linkedin.com/in/eugene-nadezhdin-3467072)
+<!-- 
+### Connect with me via [LinkedIn](www.linkedin.com/in/eugene-nadezhdin-3467072) -->
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,13 +1,5 @@
-<head>
-    <style type="text/css">
-        a.nounderline {text-decoration: none; }
-    </style>
-</head>
-
 <h1 align="center">Hi 👋, I'm Eugene</h1>
 <h3 align="left">I am a bioinformatics specialist and biomedical data scientist with background in molecular biology.</h3>
-
-<!-- <h3 align="left">Connect with me via <a class="no-underline" href="www.linkedin.com/in/eugene-nadezhdin-3467072" target="_blank" rel="noreferrer"> LinkedIn </a></h3> -->
 
 ### Connect with me via [LinkedIn](https://www.linkedin.com/in/eugene-nadezhdin-3467072)
 
@@ -16,7 +8,7 @@
 <h4 align="left">Programming Languages:</h4>
  <div align="center">
 
-  <a href="https://www.python.org" class="nounderline" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="60" height="60"/> </a> <a href="https://www.r-project.org" class="nounderline" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R logo" height="60" width="60"/> </a> <a href="https://www.nextflow.io" class="nounderline" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.nextflow.io/img/nextflow2014_no-bg.png" title="Nextflow" alt="Nextflow" height="60" width="140"/> </a> <a href="https://groovy-lang.org" class="nounderline" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" height="60" width="60"/> </a> <a href="https://www.gnu.org/software/bash/" class="nounderline" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="bash" width="60" height="60"/> </a> <a href="https://www.mysql.com/" class="nounderline" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="60" height="60"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="60" height="60"/> </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R logo" height="60" width="60"/> </a> <a href="https://www.nextflow.io" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.nextflow.io/img/nextflow2014_no-bg.png" title="Nextflow" alt="Nextflow" height="60" width="140"/> </a> <a href="https://groovy-lang.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" height="60" width="60"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="bash" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="60" height="60"/> </a>
  </div>
 
 <h4 align="left">Operating systems:</h4>
@@ -34,7 +26,7 @@
 <h4 align="left">Cloud Computing and HPC:</h4>
  <div align="center">
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a> <a href="https://www.terraform.io" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" title="Terraform" alt="terraform logo"/> </a> <a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/1200px-Slurm_logo.svg.png" title="Slurm" height="60" alt="SLURM logo"/> </a> <a href="https://cloud.ibm.com/catalog/content/ibm-spectrum-lsf" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/6391a864-1394-4296-9524-784ee59c6af2/UploadedImages/SpectrumComputeFamily_LSF-HorizontalColorWhite.png" title="LSF" height="60" alt="LSF logo"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="aws logo" width="60" height="60"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="GCP" alt="gcp logo" width="60" height="60"/> </a> <a href="https://www.terraform.io" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" title="Terraform" alt="terraform logo"/> </a> <a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/1200px-Slurm_logo.svg.png" title="Slurm" height="60" alt="SLURM logo"/> </a> <a href="https://cloud.ibm.com/catalog/content/ibm-spectrum-lsf" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/6391a864-1394-4296-9524-784ee59c6af2/UploadedImages/SpectrumComputeFamily_LSF-HorizontalColorWhite.png" title="LSF" height="60" alt="LSF logo"/> </a>
 </div>
 
 <h4 align="left">Version control tools:</h4>
@@ -56,7 +48,7 @@
  </div>
 
 
-### Some of my projects I did while I had been working in these institutions:
+### Some of my projects I did while I had been working in these institutions and companies:
 - [Sainsbury Laboratory University of Cambridge](https://www.slcu.cam.ac.uk)
 - [Wellcome Sanger Institute](https://www.sanger.ac.uk/programme/cancer-ageing-and-somatic-mutation/)
 - [Lifebit Biotech Ltd](https://www.lifebit.ai)
